@@ -10,3 +10,8 @@ C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CopyComplete

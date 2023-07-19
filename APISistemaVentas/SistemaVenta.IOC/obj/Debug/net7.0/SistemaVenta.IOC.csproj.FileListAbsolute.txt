@@ -10,3 +10,14 @@ C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\obj\Debu
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\refint\SistemaVenta.IOC.dll
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.pdb
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\ref\SistemaVenta.IOC.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.BLL.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.IOC\obj\Debug\net7.0\SistemaVenta.IOC.csproj.CopyComplete

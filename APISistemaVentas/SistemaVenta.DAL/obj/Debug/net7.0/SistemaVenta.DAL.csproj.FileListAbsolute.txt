@@ -10,3 +10,6 @@ C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\obj\Debu
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete

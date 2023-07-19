@@ -8,7 +8,8 @@ insert into Rol(nombre) values
 go
 
 insert into Usuario(nombreCompleto,correo,idRol,clave) values 
-('codigo estudiante','code@example.com',1,'123')
+('Rodrigo','code@example.com',1,'123')
+
 
 go
 

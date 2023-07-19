@@ -1,0 +1,12 @@
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.deps.json
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\refint\SistemaVenta.Utility.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Utility\obj\Debug\net7.0\ref\SistemaVenta.Utility.dll

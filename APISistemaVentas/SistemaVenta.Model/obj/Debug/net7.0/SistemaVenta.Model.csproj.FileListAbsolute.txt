@@ -1,0 +1,14 @@
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.deps.json
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\bin\Debug\net7.0\SistemaVenta.Model.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\refint\SistemaVenta.Model.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.Model\obj\Debug\net7.0\ref\SistemaVenta.Model.dll

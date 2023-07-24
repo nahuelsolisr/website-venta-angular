@@ -26,30 +26,77 @@ namespace SistemaVenta.DAL.Repositorios
 
         //implimentar interface
 
-        public Task<Tmodelo> Obtener(Expression<Func<Tmodelo, bool>> filtro)
+        public async Task<Tmodelo> Obtener(Expression<Func<Tmodelo, bool>> filtro)
         {
-            throw new NotImplementedException();
+            try
+            {
+                Tmodelo modelo = await _dbcontext.Set<Tmodelo>().FirstOrDefaultAsync(filtro);
+                return modelo;
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
-        public Task<Tmodelo> Crear(Tmodelo modelo)
+        public async Task<Tmodelo> Crear(Tmodelo modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbcontext.Set<Tmodelo>().Add(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return modelo;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<IQueryable<Tmodelo>> Consultar(Expression<Func<Tmodelo, bool>> filtro)
+        public async Task<bool> Editar(Tmodelo modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbcontext.Set<Tmodelo>().Update(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return true; 
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<bool> Editar(Tmodelo modelo)
+        public async Task<bool> Eliminar(Tmodelo modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbcontext.Set<Tmodelo>().Remove(modelo);
+                await _dbcontext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
 
-        public Task<bool> Eliminar(Tmodelo modelo)
+        public async Task<IQueryable<Tmodelo>> Consultar(Expression<Func<Tmodelo, bool>> filtro)
         {
-            throw new NotImplementedException();
-        }
+            try
+            {
+                IQueryable<Tmodelo> queryModelo = filtro == null ? _dbcontext.Set<Tmodelo>() : _dbcontext.Set<Tmodelo>().Where(filtro);
+                return queryModelo;
+            }
+            catch (Exception)
+            {
 
-       
+                throw;
+            }
+        }
     }
 }

@@ -12,7 +12,7 @@ using SistemaVenta.Model;
 
 namespace SistemaVenta.Utility
 {
-    internal class AutoMapperProfile : Profile
+    public class AutoMapperProfile : Profile
     {
         public AutoMapperProfile()
         {

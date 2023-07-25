@@ -81,3 +81,5 @@ C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debu
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.DAL.pdb
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Model.pdb
 C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debug\net7.0\SistemaVenta.Utility.pdb
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.dll
+C:\MisProyectos\website-venta-angular\APISistemaVentas\SistemaVenta.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

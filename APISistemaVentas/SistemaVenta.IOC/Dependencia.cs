@@ -12,6 +12,9 @@ using System.Threading.Tasks;
 using SistemaVenta.DAL.Repositorios.Contratos;
 using SistemaVenta.DAL.Repositorios;
 using SistemaVenta.Model;
+//
+using SistemaVenta.Utility;
+
 
 namespace SistemaVenta.IOC
 {
@@ -19,7 +22,7 @@ namespace SistemaVenta.IOC
     {
         public static void InyectarDependencias(this IServiceCollection services, IConfiguration configuration)
         {
-            
+
             services.AddDbContext<DbventaContext>(options =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("cadenaSQL"));
@@ -35,6 +38,9 @@ namespace SistemaVenta.IOC
 
             services.AddScoped<IVentaRepository, VentaRepository>();
             //La interfaz IVentaRepository representa un repositorio específico para las operaciones relacionadas con ventas.La implementación VentaRepository contiene la lógica concreta para manejar las operaciones de ventas específicas.
+
+
+            services.AddAutoMapper(typeof(AutoMapperProfile));
 
         }
     }

@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "U73XFxjwBOnZt5+fa/blPUHKSVD6EdHFSGq3lj3JlhOAFzEs6/4ed4tJ6O6metpFmSsTfEIrh8vFk+C1dmQe0g==",
+  "dgSpecHash": "Caheiw64GG3c7wbD2hUbR83HugSI8Zu4vDzudRqmjWsjR2SQQlCpYbHyojq2kEdkpFkl0VFrocZjmKBpC2MBgw==",
   "success": true,
   "projectFilePath": "C:\\MisProyectos\\website-venta-angular\\APISistemaVentas\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rodri\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Rodri\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Rodri\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",

@@ -18,7 +18,5 @@ namespace SistemaVenta.BLL.Servicios.Contrato
         Task<UsuarioDTO> Crear(UsuarioDTO modelo);
         Task<bool> Editar(UsuarioDTO modelo);
         Task<bool> Eliominar (int id);
-
-
     }
 }

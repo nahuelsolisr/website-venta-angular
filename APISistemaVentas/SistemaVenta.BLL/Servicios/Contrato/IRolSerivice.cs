@@ -3,10 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//
+using SistemaVenta.DTO;
 
 namespace SistemaVenta.BLL.Servicios.Contrato
 {
-    internal interface IRolSerivice
+    public interface IRolSerivice
     {
+        Task<List<RolDTO>> Lista();
     }
 }

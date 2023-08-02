@@ -24,6 +24,7 @@ namespace SistemaVenta.Utility
             CreateMap<Menu, MenuDTO>().ReverseMap();
             #endregion Menu
 
+
             #region Usuario 
             CreateMap<Usuario, UsuarioDTO>()
                 .ForMember(destino =>

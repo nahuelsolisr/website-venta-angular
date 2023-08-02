@@ -54,6 +54,8 @@ namespace SistemaVenta.Utility
             CreateMap<Categoria, CategoriaDTO>().ReverseMap();
             #endregion Categoria
 
+
+
             #region Producto 
             CreateMap<Producto, ProductoDTO>()
                 .ForMember(destino =>

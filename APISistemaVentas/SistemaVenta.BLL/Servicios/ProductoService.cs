@@ -62,11 +62,34 @@ namespace SistemaVenta.BLL.Servicios
             }
         }
 
-        public Task<bool> Editar(ProductoDTO modelo)
+        public async Task<bool> Editar(ProductoDTO modelo)
         {
             try
             {
+                var productoModelo = await _mapper.Map<Producto>(modelo);
+                var productoEncontrado = await _productoRepositorio.Obtener(u =>
+                u.IdProducto == productoModelo.IdProducto
+                );
 
+                if (productoEncontrado == null)
+                {
+                    throw new TaskCanceledException("El producto no existe");
+                }
+
+                productoEncontrado.Nombre = productoModelo.Nombre;
+                productoEncontrado.IdCategoria = productoModelo.IdCategoria;
+                productoEncontrado.Stock = productoModelo.Stock;
+                productoEncontrado.Precio = productoModelo.Precio;
+                productoEncontrado.EsActivo = productoModelo.EsActivo;
+
+
+                bool respuesta = await _productoRepositorio.Editar(productoEncontrado);
+                if(respuesta)
+                {
+                    throw new TaskCanceledException("no se pudo editar");
+                }
+
+                return respuesta;
             }
             catch (Exception)
             {
@@ -75,10 +98,27 @@ namespace SistemaVenta.BLL.Servicios
             }
         }
 
-        public Task<bool> Eliminar(int id)
+        public async Task<bool> Eliminar(int id)
         {
             try
             {
+                var productoEncontrado = await _productoRepositorio.Obtener(p => p.IdProducto == id);
+
+                if (productoEncontrado == null)
+                {
+                    throw new TaskCanceledException("El producto no existe");
+                }
+
+                bool respuesta = await _productoRepositorio.Eliminar(productoEncontrado);
+
+               
+                if (respuesta)
+                {
+                    throw new TaskCanceledException("no se pudo Eliminar");
+                }
+
+                return respuesta;
+
 
             }
             catch (Exception)

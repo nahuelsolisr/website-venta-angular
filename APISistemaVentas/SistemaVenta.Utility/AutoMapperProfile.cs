@@ -54,8 +54,6 @@ namespace SistemaVenta.Utility
             CreateMap<Categoria, CategoriaDTO>().ReverseMap();
             #endregion Categoria
 
-
-
             #region Producto 
             CreateMap<Producto, ProductoDTO>()
                 .ForMember(destino =>
@@ -131,7 +129,6 @@ namespace SistemaVenta.Utility
               );
 
             #endregion Categoria
-
 
             #region Reporte 
             CreateMap<DetalleVenta, ReporteDTO>()
